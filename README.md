@@ -23,6 +23,10 @@ You can find me on various social media platforms. Don't hesitate to connect wit
 If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through email or any of the social media platforms mentioned above.
 Looking forward to connecting with you! 😄
 
+## 📈 Most Used Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazem237&layout=compact)](https://github.com/hazem237)
+
 ## 📈 GitHub Stats
 
 [![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem237&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/hazem237)
