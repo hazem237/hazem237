@@ -18,25 +18,13 @@ You can find me on various social media platforms. Don't hesitate to connect wit
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hazem-haddad-726aa1174/)
 - Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-Follow-orange?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/Hazem_237)
 
-## 📈 GitHub Stats
-
-[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/yourusername)
-
-## 🚀 My Projects
-
-Here are some of my noteworthy projects:
-
-- Project 1: [Project 1 Name](https://github.com/yourusername/project-1)
-- Project 2: [Project 2 Name](https://github.com/yourusername/project-2)
-
-Feel free to explore them and provide feedback!
-
-## 📫 How to Reach Me
-
-If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through [email address] or any of the social media platforms mentioned above.
-
+📫 **How to Reach Me:**
+- Email: hzmhaddad@gmail.com
+If you'd like to collaborate, have any questions, or just want to say hi, feel free to reach out to me through email or any of the social media platforms mentioned above.
 Looking forward to connecting with you! 😄
 
----
+## 📈 GitHub Stats
 
-Feel free to customize the above template to your liking. Add more sections, such as "Skills," "Languages," or any other relevant information you want to showcase. Don't forget to replace `yourusername` in the GitHub Stats section with your actual GitHub username. Once you're happy with the content, save it as a README.md file and upload it to your GitHub repository. Happy coding! 🚀
+[![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem237&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/hazem237)
+
+
