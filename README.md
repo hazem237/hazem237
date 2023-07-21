@@ -1,10 +1,10 @@
 # 👨‍💻 Welcome to Hazem Haddad's GitHub Profile! 👋
 
-Hello there! I'm Hazem Haddad, a software student currently in my 4th year (IT). 🎓 I am a passionate frontend developer 🌐 and a self-learner, always eager to acquire new tech skills. 📚 Besides coding, I have a creative side, and I enjoy working as a graphic designer. 🎨
+Hello there! I'm Hazem Haddad, a Software Engineering student currently in my 4th year (IT). 🎓 I am a passionate frontend developer 🌐 and a self-learner, always eager to acquire new tech skills. 📚 Besides coding, I have a creative side, and I enjoy working as a graphic designer. 🎨
 
 ## 📄 About Me
 
-- 🎓 Software student, currently in my 4th year (IT).
+- 🎓 Software Engineering student, currently in my 4th year (IT).
 - 🌐 Frontend developer, always striving to build responsive and user-friendly web applications.
 - 📚 Self-learner, continuously expanding my technical knowledge and exploring new technologies.
 - 🎨 Graphic designer, bringing creativity and aesthetics to the digital world.
