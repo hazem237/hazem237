@@ -49,4 +49,7 @@ Looking forward to connecting with you! 😄
 
 [![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem237&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/hazem237)
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+
 
